@@ -1,0 +1,5 @@
+gymnasium[toy_text]~=0.29.1
+gymnasium[box2d]
+torch~=2.3.1
+matplotlib~=3.9.1
+numpy~=2.0.0
