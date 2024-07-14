@@ -8,6 +8,10 @@ This repository contains my solutions to the openai gymnasium rl environment.
 
 ### Cart Pole
 
+<p align="center">
+  <img src="classic_control/cart_pole/output/result.gif" width="320" alt="Frozen Lake">
+</p>
+
 ### Mountain Car Continuous
 
 ### Mountain Car
